@@ -1,0 +1,37 @@
+.p1{
+    background-color: rgb(121, 189, 212);
+}
+
+.p2{
+    background-color: rgb(147, 212, 147);
+}
+
+.ip3{
+    background-image: url('./img/506f55bd16f0f7c8615aaa5b52c6c26626e8cf482049e70e2f6a6086b25284b9._SX1080_FMjpg_.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.p4{
+    background-image: url('./img/body-image_30.jpg');
+    background-repeat: repeat-y;
+}
+
+.p5 {
+    background-image: url('./img/do-you-prefer-fate-the-winx-sagas-magic-system-or-do-you-v0-njhxyvo8nk7b1.jpg');
+    background-repeat: no-repeat;
+}
+
+.p6 {
+    background-image: url('./img/1-Game-of-thrones.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.p7{
+    background-color: rgb(240, 240, 15);
+    background-image: url('./img/game-of-thrones-1-1920x1080-1.jpgS');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+}

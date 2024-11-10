@@ -1,0 +1,25 @@
+#f1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(161, 22, 22);
+}
+
+#f2{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 22px;
+    color: rgb(22, 117, 22);
+}
+
+#f3{
+    font-family: comic sans-serif;
+    font-size: 20px;
+    color: rgb(25, 125, 255);
+    font-style: italic;
+}
+
+#f4{
+    color: yellow;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-stretch: medium;
+}
